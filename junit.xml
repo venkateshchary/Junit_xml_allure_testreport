@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='utf-8'?>
+<testsuites><testsuite errors="0" failures="0" name="suite1" skipped="1" tests="1" time="0"><properties><property name="build" value="55" /></properties><testcase name="case1"><skipped /></testcase></testsuite></testsuites>
